@@ -5,7 +5,6 @@ def print_hi(name):
     print( f' Hello world , my name is {name} ')
 
 
-
 if __name__ == '__main__':
     print_hi('Aditya')
 
